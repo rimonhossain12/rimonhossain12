@@ -11,7 +11,7 @@ Skills:  REACT / JS / HTML / CSS / NODE JS / EXPRESS / FIREBASE /
 - ⚡ Fun fact: watching bengali drama 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rimonhossain12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rimon-hossain-9099451aa//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ar.rimon.7731)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rimonhossain12.github.io/pratice_project/)  
+https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimonhossain12)](https://github.com/anuraghazra/github-readme-stats)
 
