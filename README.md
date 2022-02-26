@@ -6,9 +6,11 @@ I am a front end developer. Who builds the website and keeps busy with bug fixes
 
 Skills:  REACT / JS / HTML / CSS / NODE JS / EXPRESS / FIREBASE / 
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on with react js & problem solving 
+- 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web developement 
-- ⚡ Fun fact: watching bengali drama 
+- 📫 How to reach me: Email: rimonmpi@gmail.com 
+- ⚡ Fun fact: watching Bengali drama & watching world most famous software company with their cultural. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rimonhossain12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rimon-hossain-9099451aa//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ar.rimon.7731)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rimonhossain12.github.io/pratice_project/)  
