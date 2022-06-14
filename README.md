@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Rimon Hossain
+### Hi There 👋, My Name is Rimon Hossain
 #### React js Developer
 ![React js Developer](https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png)
 
