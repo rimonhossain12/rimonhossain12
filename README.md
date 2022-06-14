@@ -4,7 +4,7 @@
 
 I am a front end developer. Who builds the website and keeps busy with bug fixes. I am also a programming problem solving lover. I'm always excited to learn new data structures and programming new tricks so I can establish myself as a full stack developer.
 
-Skills:  REACT / JS / HTML / CSS / NODE JS / EXPRESS / FIREBASE / HEROKU / TAILWIND / REACT BOOTSTRAP / METERIAL UI / 
+Skills:  REACT / JS / HTML / CSS / NODE JS / EXPRESS / FIREBASE / HEROKU / TAILWIND / REACT BOOTSTRAP / METERIAL UI / </br>
 Tools: Chorme DevTools/ github/Figma/ Firebase
 
 - 🔭 I’m currently working on with react js & problem solving 
