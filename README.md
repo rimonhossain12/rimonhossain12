@@ -1,8 +1,8 @@
-### Hi There 👋, My Name is Rimon Hossain
+### Hi There 👋,I'm Rimon Hossain
 #### React js Developer
 ![React js Developer](https://www.topsinfosolutions.com/wp-content/uploads/2020/07/mern-stack.png)
 
-I am a front end developer. Who builds the website and keeps busy with bug fixes. I am also a programming problem solving lover. I'm always excited to learn new data structures and programming new tricks so I can establish myself as a full stack developer.
+I am a front end developer. Who builds the website and keeps busy with bug fixes. I am also a programming problem solving lover. I'm always excited to learn new data structures and programming new tricks. so that I can establish myself as a full stack developer as well as good problem solver.
 
 Skills:  REACT / JS / HTML / CSS / NODE JS / EXPRESS / FIREBASE / HEROKU / TAILWIND / REACT BOOTSTRAP / METERIAL UI / </br>
 Tools: Chorme DevTools/ github/Figma/ Firebase
